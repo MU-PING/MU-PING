@@ -7,12 +7,14 @@
 資工、資管雙領域發展的機器學習工程師，同時正使用自己的方式理解這個世界，並用自己的語言記錄下來
 
 # :open_file_folder: REPOSITORY
-:black_medium_square: 類神經網路相關
+:black_medium_square: 機器學習原理相關
 * [hopfield-network](https://github.com/MU-PING/hopfield-network)  
   視覺化呈現離散型Hopfield Network之實作
 * [perceptron](https://github.com/MU-PING/perceptron)  
   視覺化呈現perceptron的運作模式
 * [winner-take-all](https://github.com/MU-PING/winner-take-all)  
+  視覺化呈現非監督式的聚類演算法
+* [k-means-clustering](https://github.com/MU-PING/k-means-clustering)  
   視覺化呈現非監督式的聚類演算法
 
 :black_medium_square: Kaggle相關
