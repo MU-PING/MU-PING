@@ -46,3 +46,8 @@
     使用 LinkIt7697 與麵包版做 LED 相關應用
   * [7697-arduino-grove](https://github.com/MU-PING/7697-arduino-grove)  
     使用 LinkIt7697 與 Grove 元件做相關應用
+  
+* Android Studio
+
+  * [android-studio-helloworld](https://github.com/MU-PING/android-studio-helloworld)  
+    使用 Android Studio 建立可互相切換與傳輸資料的簡易兩頁式 APP
