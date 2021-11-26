@@ -24,12 +24,18 @@
 :black_medium_square: 資料結構相關
 * [priorityqueue-binaryheap](https://github.com/MU-PING/priorityqueue-binaryheap)  
   Binary Heap 資料結構實作 Priority Queue
-
+* [huffman-coding](https://github.com/MU-PING/huffman-coding)  
+  實作霍夫曼編碼與解碼
+ 
 :black_medium_square: 演算法相關
 * [math-parentheses](https://github.com/MU-PING/math-parentheses)  
   使用Dynamic Programming實作「尋找數學式的最大最小值之括號」
 * [maximum-subarray](https://github.com/MU-PING/maximum-subarray)  
   使用Dynamic Programming實作「尋找和最大的連續子序列」
+* [cyclic-digraph-longest-path](https://github.com/MU-PING/cyclic-digraph-longest-path)   
+  尋找只有正邊的有環有向圖之最長路徑  
+* [tree-perfect-matching](https://github.com/MU-PING/tree-perfect-matching)     
+  判斷樹是否具備完美配對的特性
   
 :black_medium_square: 網頁相關
 * [parallax-scroll](https://github.com/MU-PING/parallax-scroll)  
