@@ -7,6 +7,6 @@
 資工、資管雙領域發展的機器學習工程師，同時正使用自己的方式理解這個世界，並用自己的語言記錄下來
 
 ## ◆ **WEBSITES**
-* [Repositories-Record](https://mu-ping.github.io/MU-PING/REPOSITORIES)
+* [Repositories-Record](https://mu-ping.github.io/Repositories-Record/S)
 
 * [Paper-Discussion](https://mu-ping.github.io/Paper-Discussion)
