@@ -18,7 +18,7 @@
 * [titanic-survival-prediction](https://github.com/MU-PING/titanic-survival-prediction)  
   將 perceptron 應用於鐵達尼號的生存率預測
 
-:black_medium_square: 資料結構相關
+##  ■ **資料結構相關**
 * [priorityqueue-binaryheap](https://github.com/MU-PING/priorityqueue-binaryheap)  
   Binary Heap 資料結構實作 Priority Queue
   
