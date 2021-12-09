@@ -1,5 +1,5 @@
 # REPOSITORIES
-:black_medium_square: 機器學習原理相關
+⬛ 機器學習原理相關
 * [hopfield-network](https://github.com/MU-PING/hopfield-network)  
   視覺化呈現離散型Hopfield Network之實作
 * [perceptron](https://github.com/MU-PING/perceptron)  
@@ -9,7 +9,7 @@
 * [k-means-clustering](https://github.com/MU-PING/k-means-clustering)  
   視覺化呈現非監督式的聚類演算法
 
-:black_medium_square: Kaggle相關
+⬛ Kaggle相關
 * [titanic-survival-prediction](https://github.com/MU-PING/titanic-survival-prediction)  
   將 perceptron 應用於鐵達尼號的生存率預測
 
@@ -19,7 +19,7 @@
 * [huffman-coding](https://github.com/MU-PING/huffman-coding)  
   實作霍夫曼編碼與解碼
  
-:black_medium_square: 演算法相關
+⬛ 演算法相關
 * [math-parentheses](https://github.com/MU-PING/math-parentheses)  
   使用Dynamic Programming實作「尋找數學式的最大最小值之括號」
 * [maximum-subarray](https://github.com/MU-PING/maximum-subarray)  
@@ -29,13 +29,13 @@
 * [tree-perfect-matching](https://github.com/MU-PING/tree-perfect-matching)     
   判斷樹是否具備完美配對的特性
   
-:black_medium_square: 網頁相關
+⬛ 網頁相關
 * [parallax-scroll](https://github.com/MU-PING/parallax-scroll)  
   視差滾動效果之實現
 * [searchbox1](https://github.com/MU-PING/searchbox1)  
   實作searchbox的一種樣式
   
-:black_medium_square: 物聯網相關
+⬛ 物聯網相關
 * LinkIt7697 + Arduino IDE
 
   * [7697-arduino-helloworld](https://github.com/MU-PING/7697-arduino-helloworld)  
