@@ -1,5 +1,6 @@
 # **REPOSITORIES**
 > 紀錄寫過的各種類型專案
+
 ##  ■ **機器學習原理相關**
 * [hopfield-network](https://github.com/MU-PING/hopfield-network)  
   視覺化呈現離散型Hopfield Network之實作
