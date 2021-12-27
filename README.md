@@ -4,14 +4,12 @@
 ![](https://img.shields.io/badge/Master-NCU%20Computer%20Science-blue)
 ![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 
-## I'm a Engineer, Developer, and Student!!
+## I'm a Developer, Student and Gamer!!
 
-- 🔭 Focus on Computer Vision and Reinforcement Learning
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🎓 Focus on Computer Vision and Reinforcement Learning
+- 💻 I’m currently learning SE and Cooking 🤣
+- ⚡ I play games and go to the GYM very often
+- 🌏 Try to experience life in your own way
 ### **Programming Language**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
