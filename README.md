@@ -6,10 +6,11 @@
 
 ## I'm a Developer, Student and Gamer!!
 
-- 🎓 Focus on Computer Vision and Reinforcement Learning
+- 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
 - 💻 I’m currently learning SE and Cooking 🤣
 - ⚡ I play games and go to the GYM very often
 - 🌏 Try to experience life in your own way
+
 ### **Programming Language**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,11 +34,8 @@
 
 
 ### **Websites**
-* [Repositories-Record](https://mu-ping.github.io/Repositories-Record)
-
-* [Paper-Discussion](https://mu-ping.github.io/Paper-Discussion)
-
-
+* Categorize the completed repositories - [Repositories-Record](https://mu-ping.github.io/Repositories-Record)
+* Record the research papers I read - [Paper-Discussion](https://mu-ping.github.io/Paper-Discussion)
 
 
 
