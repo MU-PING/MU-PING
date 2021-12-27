@@ -34,8 +34,8 @@
 
 
 ### **Websites**
-* Categorize the completed repositories - [Repositories-Record](https://mu-ping.github.io/Repositories-Record)
-* Record the research papers I read - [Paper-Discussion](https://mu-ping.github.io/Paper-Discussion)
+- 💾 Categorize the completed repositories - [Repositories-Record](https://mu-ping.github.io/Repositories-Record)
+- 📄 Record the research papers I read - [Paper-Discussion](https://mu-ping.github.io/Paper-Discussion)
 
 
 
