@@ -3,17 +3,14 @@
 ![](https://img.shields.io/badge/Bachelor-NCU%20Information%20Management-blue)
 ![](https://img.shields.io/badge/Master-NCU%20Computer%20Science-blue)
 ![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
-
-## I'm a Developer, Student and Gamer!!
 <img src="https://user-images.githubusercontent.com/93152909/147533278-91dd2bcc-6d02-4c08-857a-13f48bb2dd2d.gif" width="280" align="right">
+## I'm a Developer, Student and Gamer!!
+
 
 
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
-
 - 💻 I’m currently learning SE and Cooking 🤣
-
 - ⚡ I play games and go to the GYM very often
-
 - 🌏 Try to experience life in your own way
 
 
