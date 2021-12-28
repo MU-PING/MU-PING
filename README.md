@@ -42,7 +42,7 @@
 
 
 ### **Websites**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Repositories-Record&show_owner=1)](https://mu-ping.github.io/Repositories-Record)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&show_owner=1)](https://mu-ping.github.io/Paper-Discussion)
 
 
