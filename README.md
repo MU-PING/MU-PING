@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 
 ## I'm a Developer, Student and Gamer!!
+<img src="https://user-images.githubusercontent.com/93152909/147533278-91dd2bcc-6d02-4c08-857a-13f48bb2dd2d.gif" width="320" align="right">
+
 
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
 - 💻 I’m currently learning SE and Cooking 🤣
