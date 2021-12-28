@@ -9,9 +9,13 @@
 
 
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
+
 - 💻 I’m currently learning SE and Cooking 🤣
+
 - ⚡ I play games and go to the GYM very often
+
 - 🌏 Try to experience life in your own way
+
 
 ### **Programming Language**
 
