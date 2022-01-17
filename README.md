@@ -49,6 +49,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&show_owner=1&theme=apprentice  )](https://mu-ping.github.io/Paper-Discussion)
 
 ### **Repositories**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&show_owner=1&theme=gruvbox)](https://mu-ping.github.io/Paper-Discussion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&show_owner=1&theme=gruvbox)](https://github.com/MU-PING/Leetcode-Problem)
 
 
