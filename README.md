@@ -42,13 +42,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MU-PING&hide=contribs,prs,issues&line_height=40&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ping&hide=javascript&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&card_width=250&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=tokyonight)](https://mu-ping.github.io/Paper-Discussion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&theme=tokyonight)](https://github.com/MU-PING/Leetcode-Problem)
+
+### **Paper**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=RL-on-NAS&theme=blueberry )](https://mu-ping.github.io/Paper-Discussion)
 
 
-### **Websites**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Repositories-Record&show_owner=1&theme=apprentice  )](https://mu-ping.github.io/Repositories-Record)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&show_owner=1&theme=apprentice  )](https://mu-ping.github.io/Paper-Discussion)
-
-### **Repositories**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&show_owner=1&theme=gruvbox)](https://github.com/MU-PING/Leetcode-Problem)
 
 
