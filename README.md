@@ -46,7 +46,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&theme=tokyonight)](https://github.com/MU-PING/Leetcode-Problem)
 
 ### **Paper**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=RL-on-NAS&theme=blueberry )](https://github.com/MU-PING/RL-on-NAS)
 
 
 
