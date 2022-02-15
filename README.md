@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Master-NCU%20Computer%20Science-blue)
 ![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 <img src="https://user-images.githubusercontent.com/93152909/147533278-91dd2bcc-6d02-4c08-857a-13f48bb2dd2d.gif" width="280" align="right">
-## I'm a Developer, Student and Gamer!!
+### I'm a Developer, Student and Gamer!!
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
 
 - 💻 I’m currently learning SE and Cooking 🤣
@@ -12,7 +12,7 @@
 
 - 🌏 Try to experience life in your own way
 
-### **Programming Language**
+#### **Programming Language**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,13 +22,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### **Machine Learning**
+#### **Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **Common IDEs**
+#### **Common IDEs**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
