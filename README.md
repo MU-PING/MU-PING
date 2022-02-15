@@ -1,18 +1,16 @@
 ## Hi I'm MU-PING <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
 ![](https://img.shields.io/badge/Bachelor-NCU%20Information%20Management-blue)
 ![](https://img.shields.io/badge/Master-NCU%20Computer%20Science-blue)
 ![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 <img src="https://user-images.githubusercontent.com/93152909/147533278-91dd2bcc-6d02-4c08-857a-13f48bb2dd2d.gif" width="280" align="right">
 ## I'm a Developer, Student and Gamer!!
-
-
-
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
-- 💻 I’m currently learning SE and Cooking 🤣
-- ⚡ I play games and go to the GYM very often
-- 🌏 Try to experience life in your own way
 
+- 💻 I’m currently learning SE and Cooking 🤣
+
+- ⚡ I play games and go to the GYM very often
+
+- 🌏 Try to experience life in your own way
 
 ### **Programming Language**
 
@@ -39,13 +37,13 @@
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
 ### **My GitHub**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MU-PING&hide=contribs,prs,issues&line_height=40&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ping&hide=javascript&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&card_width=250&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+|![](https://github-readme-stats.vercel.app/api/?username=MU-PING&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ping&hide=javascript&theme=buefy&hide_border=true&layout=compact&card_width=250&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)|
+| ------------- | ------------- |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=tokyonight)](https://mu-ping.github.io/Paper-Discussion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Leetcode-Problem&theme=tokyonight)](https://github.com/MU-PING/Leetcode-Problem)
+### **My Discussion**
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=buefy&hide_border=true)](https://mu-ping.github.io/Paper-Discussion)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Book-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Book-Discussion)|
+| ------------- | ------------- |
 
-### **Paper**
 
 
 
