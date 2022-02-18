@@ -41,7 +41,7 @@
 | ------------- | ------------- |
 
 ### **My Discussion**
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=buefy&hide_border=true)](https://mu-ping.github.io/Paper-Discussion)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Book-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Book-Discussion)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Paper-Discussion)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Book-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Book-Discussion)|
 | ------------- | ------------- |
 
 
