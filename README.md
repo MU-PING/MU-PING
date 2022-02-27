@@ -40,9 +40,7 @@
 |![](https://github-readme-stats.vercel.app/api/?username=MU-PING&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ping&hide=javascript&theme=buefy&hide_border=true&layout=compact&card_width=250&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
 
-### **My Discussion**
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Paper-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Paper-Discussion)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MU-PING&repo=Book-Discussion&theme=buefy&hide_border=true)](https://github.com/MU-PING/Book-Discussion)|
-| ------------- | ------------- |
+
 
 
 
