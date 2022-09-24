@@ -36,9 +36,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
-### **My GitHub**
-|![](https://github-readme-stats.vercel.app/api/?username=MU-PING&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ping&hide=javascript&theme=buefy&hide_border=true&layout=compact&card_width=250&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)|
-| ------------- | ------------- |
 
 
 
