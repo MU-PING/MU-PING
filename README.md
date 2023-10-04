@@ -1,7 +1,9 @@
 ## Hi I'm MU-PING <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi">
 ![](https://img.shields.io/badge/Bachelor-NCU%20Information%20Management-blue)
-![](https://img.shields.io/badge/Master-NCU%20Computer%20Science-blue)
-![](https://img.shields.io/badge/-k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/Master-NCU%20Computer%20Science%20&%20Information%20Engineering-blue)
+![](https://img.shields.io/badge/Bachelor-NYCU%20Institute%20f%20Computer%20Science%20and%20Engineering-blue)
+
+![](https://img.shields.io/badge/k0326jim@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 <img src="https://user-images.githubusercontent.com/93152909/147533278-91dd2bcc-6d02-4c08-857a-13f48bb2dd2d.gif" width="280" align="right">
 ### I'm a Developer, Student and Gamer!!
 - 🎓 Focus on Machine Learning - Computer Vision and Reinforcement Learning
