@@ -10,7 +10,7 @@
 
 - 🌏 Try to experience life in your own way
 
-### Education
+### Education Background
 * ![](https://img.shields.io/badge/Bachelor’s%20degree-NCU%20Information%20Management-blue)  
   * ![](https://img.shields.io/badge/Second_Specialty-Artificial_Intelligence-blue?labelColor=3e6b7e&color=FFD000)  
   * ![](https://img.shields.io/badge/Second_Specialty-Programming_Design_in_Computer_Science-blue?labelColor=3e6b7e&color=FFD000)
